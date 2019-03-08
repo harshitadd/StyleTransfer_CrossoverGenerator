@@ -6,7 +6,8 @@ The given Network has 12 layers in comparison to the more diverse 48 layer 1.5MB
 
 What we are doing ? 
 
-# OPTION 1 - Core feature - Use of GPT-2 to create plots based on different features of the seed video. 
+# OPTION 1 
+Core feature - Use of GPT-2 to create plots based on different features of the seed video. 
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) and on the basis of the following parameters 
 1. top_k : Regulates the repetition (Until 'n' words, the context of the sentence will be the same, after which it will repeat)
@@ -32,7 +33,8 @@ Features -
 4. Setting - Stormy night, Broad Daylight
 
 
-# OUTPUT - On the basis of different stress points, we suggest different plot points for the 2 unrelated plots that are given to us.  
+# OUTPUT 
+On the basis of different stress points, we suggest different plot points for the 2 unrelated plots that are given to us.  
 
 Sample Runs - 
 
@@ -55,10 +57,9 @@ are being used to identify the key element in a seed sentence : Slightly intuiti
 
 
 
-
-
 So we are modifying the seed text' format each time we wish to give stress on a particular element of a sentence. 
-# OPTION 2 - Core Feauture : Use of Style Tranfer to create the seed text and then apply GPT-2 to predict the the extention of the plot 
+# OPTION 2 
+Core Feauture : Use of Style Tranfer to create the seed text and then apply GPT-2 to predict the the extention of the plot 
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) - 
 
@@ -66,3 +67,9 @@ Give us a concatenated string of any 2 subplots (no matter how unrelated they ar
 2. Then that resultant text is used as the input (seed) for the GPT-2 analysis. 
 
 
+# Scalability : 
+1. Can be applied to any Image Model as well : Style Transfer has been originally applied to images as well.
+# style tranfered seed image - and then have it predict an extention to even that plot. 
+
+2. Movies subtitles files can be fed into the script and on that basis -- extention plot. 
+Live Example - Tortiose and Hare story part 2 
