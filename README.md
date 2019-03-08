@@ -44,7 +44,7 @@ Sample Runs -
 ![whatsapp image 2019-03-08 at 09 10 28](https://user-images.githubusercontent.com/31439716/54006228-71a98600-4182-11e9-8a08-ebdc123b9059.jpeg)
 
 
-
+Note that - The stress is not on repition but on relevance. 
 # How do we carry out the field extraction - 
 
 As of now : OpenAI GPT-2 construct is such that in the input text depending upon : 
