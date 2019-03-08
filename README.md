@@ -35,8 +35,7 @@ Features -
 
 
 # OUTPUT 
-# On the basis of different stress points
-we suggest different plot points for the 2 unrelated plots that are given to us.  
+On the basis of different stress points we suggest different plot points for the 2 unrelated plots that are given to us.  
 
 Sample Runs - 
 
