@@ -60,7 +60,7 @@ are being used to identify the key element in a seed sentence : Slightly intuiti
 
 
 So we are modifying the seed text' format each time we wish to give stress on a particular element of a sentence. 
-# OPTION 2 
+# OPTION 2 - Future Expansion
 Core Feauture : Use of Style Tranfer to create the seed text and then apply GPT-2 to predict the the extention of the plot 
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) - 
@@ -71,7 +71,7 @@ Give us a concatenated string of any 2 subplots (no matter how unrelated they ar
 
 # Scalability : 
 1. Can be applied to any Image Model as well : Style Transfer has been originally applied to images as well.
-# style tranfered seed image - and then have it predict an extention to even that plot. 
+# style transferred seed image - and then have it predict an extention to even that plot. 
 
 2. Movies subtitles files can be fed into the script and on that basis -- extention plot. 
 Live Example - Tortiose and Hare story part 2 
