@@ -65,7 +65,7 @@ Core Feauture : Use of Style Tranfer to create the seed text and then apply GPT-
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) - 
 
-1. We apply content + style tranfer on them to achieve an intermediate text 
+1. We apply content + style tranfer on them to achieve an intermediate text. Use that to create our own cutom dataset. 
 2. Then that resultant text is used as the input (seed) for the GPT-2 analysis. 
 
 
