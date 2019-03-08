@@ -51,6 +51,7 @@ As of now : OpenAI GPT-2 construct is such that in the input text depending upon
 3. Connectors (and, or, between )
 
 are being used to identify the key element in a seed sentence : Slightly intuitive process - 
+![f3](https://user-images.githubusercontent.com/31439716/54007517-39a54180-4188-11e9-8deb-f5b6c4c251f6.jpeg)
 
 
 
