@@ -6,8 +6,8 @@ The given Network has 12 layers in comparison to the more diverse 48 layer 1.5MB
 
 What we are doing ? 
 
-# OPTION 1 
-Core feature - Use of GPT-2 to create plots based on different features of the seed text. 
+# OPTION 1
+Core feature - Use of GPT-2 to create plots based on different features of the seed text while giving the user the choice of  FEATURE PRIORITY. 
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) and on the basis of the following parameters 
 
