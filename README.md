@@ -7,9 +7,10 @@ The given Network has 12 layers in comparison to the more diverse 48 layer 1.5MB
 What we are doing ? 
 
 # OPTION 1 
-Core feature - Use of GPT-2 to create plots based on different features of the seed video. 
+Core feature - Use of GPT-2 to create plots based on different features of the seed text. 
 
 Give us a concatenated string of any 2 subplots (no matter how unrelated they are) and on the basis of the following parameters 
+
 1. top_k : Regulates the repetition (Until 'n' words, the context of the sentence will be the same, after which it will repeat)
 2. Temperature : regulates randomness - greater the temp, greater the randomness 
 3. length 
@@ -34,7 +35,8 @@ Features -
 
 
 # OUTPUT 
-On the basis of different stress points, we suggest different plot points for the 2 unrelated plots that are given to us.  
+# On the basis of different stress points
+we suggest different plot points for the 2 unrelated plots that are given to us.  
 
 Sample Runs - 
 
